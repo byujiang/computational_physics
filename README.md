@@ -6,6 +6,10 @@ Just keep down good homeworks from students attended class [Computational Physic
 
 And sorry for your student ids are listed here.
 
+- [2013材料](students/cai.md)
+
+
 -----------
-[Mail to Me](mailto:byujiang@gmail.com)
+
+If you find something wrong here, please [mail to Me](mailto:byujiang@gmail.com).
 
