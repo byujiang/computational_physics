@@ -12,4 +12,4 @@
 - [汪  琪 2013301020174](https://github.com/waqi1/computationalphysics_N2013301020174)
 - [王紫嫣 2013301510087](https://github.com/wangziyan0087/computationalphysics_N2013301510087)
 - [安  莹 2013301020156](https://github.com/anying2016/computationalphysics_N2013301020156)
-- [李海波 2013301020115]( https://github.com/fixedpoints)
+- [李海波 2013301020115]( https://github.com/fixedpoints/computationalphysics_N2013301020115)
