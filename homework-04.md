@@ -1,8 +1,6 @@
 ## The 4th homework of Computational Physics
 
 - [MitoYuuka](https://github.com/MitoYuuka/computationalphysics_N2013301020097/blob/master/hw4-2.md)
-- [breakingDboy](https://github.com/breakingDboy/computational_physics_2013301020120/tree/master/population)
-- [aragornranger](https://github.com/aragornranger/computationalphysics_N2013301020051/blob/master/chapter1/assignment4/README.md)
 - [endeavor19](https://github.com/endeavor19/computationalphysics_N2013301020025/blob/master/Chapter1/Exercise4.md)
 - [wdwycpt](https://github.com/wdwycpt/computationalphysics_N2013301020128/blob/master/4th.md)
 - [horizonl](https://github.com/horizonl/computationalphysics_N2013301510076/tree/master/chapter1)
@@ -16,4 +14,4 @@
 - [newton2ndlaw](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework4.md)
 - [YMTheory](https://github.com/YMTheory/computationalphysics_N2013301020035/tree/master/ChapterOne)
 
-Notice: the name is github id.
+Notice: the name is github id, linking to the homework.
