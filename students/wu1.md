@@ -13,7 +13,7 @@
 - [袁  晓 2013301020053](https://github.com/YuanXiao123/computationalphysics_N2013301020053)
 - [杨锦涛 2013301020005](https://github.com/Icespellcaster/computationalphysics_N2013301020005)
 - [谢章权 2013301020024](https://github.com/x-blossom/computationalphysics-2013301020024)
-- [李浩波 2013301020029](https://github.com/N2013301020029/comutionalphysics_N2013301020029.git)
+- [李浩波 2013301020029](https://github.com/N2013301020029/computionalphysics_N2013301020029)
 - [赵  玥 2013301020083](https://github.com/zhaoyoyo/computationalphysics_N2013301020083.git)
 - [张志城 2013301110121](https://github.com/Zhicheng-Zhang/computationalphysics_N20133011101211.git)
 - [陈  林 2013301020022](https://github.com/LynnChen-whu/computationalphysics_N2013301020022)
