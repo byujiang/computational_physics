@@ -19,6 +19,7 @@ Here list good jobs for each homeworks.
 
 - [3rd homeworks](homework-03.md)
 - [4th homeworks](homework-04.md)
+- [5th homeworks](homework-05.md)
 
 Given most guys not finishing the 5th and 6th homeworks, so no jobs listed above.
 
