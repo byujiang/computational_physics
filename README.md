@@ -21,10 +21,13 @@ Here list good jobs for each homeworks.
 - [4th homeworks](homework-04.md)
 - [5th homeworks](homework-05.md)
 - [6th homeworks](homework-06.md)
-
+- [7th homeworks](homework-07.md)
+- [8th homeworks](homework-08.md)
+- [9th homeworks](homework-09.md)
 -----------
 
 If you find anything wrong here, please [mail to me](mailto:byujiang@gmail.com).
 
 ------------
+
 
