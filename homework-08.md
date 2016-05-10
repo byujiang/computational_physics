@@ -6,3 +6,6 @@
 - [岳绍圣 2013301020033](https://www.zybuluo.com/Guoguo0605/note/352185)
 - [吴雨桥 2013301020142](https://github.com/wuyuqiao/computationalphysics_N2013301020142/blob/master/chapter3/pendulum.md)
 - [陈  锋 2013301020145](https://www.zybuluo.com/355073677/note/339666)
+- [胡博深 2013301020025](https://github.com/endeavor19/computationalphysics_N2013301020025/blob/master/Chapter3/Exercise8.md)
+
+
