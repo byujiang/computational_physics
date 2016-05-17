@@ -1,7 +1,7 @@
 ## list of  homework 12
 - [张强 2013301020039](https://www.zybuluo.com/zqbinggong/note/373208)
 - [骆振雄 2013301510050](https://github.com/lzx78966/computationalphysics_N2013301510050/tree/master/Chapter4/exercise12)
-- [张志城　2013301110121](https://www.zybuluo.com/zhicheng-zhang1995/note/378540)
+- [张志城 2013301110121](https://www.zybuluo.com/zhicheng-zhang1995/note/378540)
 - [王世兴 2013301020050](https://www.zybuluo.com/ShixingWang/note/376748)
 - [吴雨桥 2013301020142](https://github.com/wuyuqiao/computationalphysics_N2013301020142/blob/master/Ex-12/Exercise%2012.md)
 - [张琦 2013301510086](https://www.zybuluo.com/newton2ndlaw/note/373656)
