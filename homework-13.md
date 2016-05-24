@@ -2,7 +2,7 @@
 
 - [刘星辰 2013301020167](https://www.zybuluo.com/Xc-liu/note/386868)
 - [李芳莹 2013301020027](https://www.zybuluo.com/FangYing/note/386146)
-- [李  尧 2013301020048)(https://www.zybuluo.com/Neolee/note/385918)
+- [李  尧 2013301020048](https://www.zybuluo.com/Neolee/note/385918)
 - [王世兴 2013301020050](https://www.zybuluo.com/ShixingWang/note/386050)
 - [吴雨桥 2013301020142](https://github.com/wuyuqiao/computationalphysics_N2013301020142/blob/master/Ex13/Exercise13.md)
 - [陈洋遥 2013301020169](https://www.zybuluo.com/cyy652415049/note/387438)
