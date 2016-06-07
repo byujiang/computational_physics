@@ -1,0 +1,10 @@
+## list of homework 14
+- [刘星辰2013301020167](https://www.zybuluo.com/Xc-liu/note/401333)
+- [李芳莹 2013301020027](https://www.zybuluo.com/FangYing/note/401676)
+- [胡博深 2013301020025](https://github.com/endeavor19/computationalphysics_N2013301020025/blob/master/Chapter6/Exercise14.md)
+- [陈洋遥 2013301020169](https://www.zybuluo.com/cyy652415049/note/394970)
+- [黄  程 2013301020125](https://github.com/chenghuang2016/computationalphysics_N2013301020125/blob/master/%E7%AC%AC%E5%8D%81%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%8D%81%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
+- [王世兴 2013301020050](https://www.zybuluo.com/ShixingWang/note/395476)
+- [吴雨桥 2013301020142](https://github.com/wuyuqiao/computationalphysics_N2013301020142/blob/master/Ex-14/Exercise%2014.md)
+- [陈  锋 2013301020145](https://www.zybuluo.com/355073677/note/391697)
+- [张琦 2013301510086](https://www.zybuluo.com/newton2ndlaw/note/390962)
