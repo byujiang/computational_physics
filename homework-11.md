@@ -6,4 +6,4 @@
 - [李芳莹 2013301020027](https://www.zybuluo.com/FangYing/note/369432)
 - [强 雨 2013301020031](https://github.com/qqyyff/computationalphysics_N2013301020031/blob/master/the%20eleventh%20homework.md)
 - [吴雨桥 2013301020142](https://github.com/wuyuqiao/computationalphysics_N2013301020142/blob/master/chap4/ex11.md)
-
+- [许晗 2013301020084](https://www.zybuluo.com/MilCOS/note/396067)
